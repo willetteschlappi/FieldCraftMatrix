@@ -1,0 +1,23 @@
+
+---
+
+### **3. 34_LogWavePulse**  
+**Description:**  
+Surfaces repeated log patterns and error bursts using a wave-like pattern detector.
+
+#### **README.md**
+```markdown
+# LogWavePulse - Log Repetition and Burst Detector
+
+LogWavePulse identifies echoing error messages, keyword floods, and clustered warning surges.
+
+## Features
+- Pattern wave detection  
+- Timestamp-based grouping  
+- CLI with keyword filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_LogWavePulse.git
+cd 34_LogWavePulse
+python analyze.py
